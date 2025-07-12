@@ -4,7 +4,7 @@ An AI-powered STEM tutoring application built with Streamlit that provides inter
 
 ## 🌐 Live Demo
 
-**Visit the live application:** [EduPrompt](https://eduprompt.streamlit.app)
+**Visit the live application:** [EduPrompt](http://stemgenius.pro)
 
 ## ✨ Features
 
@@ -55,7 +55,7 @@ An AI-powered STEM tutoring application built with Streamlit that provides inter
    ```
 
 5. **Open your browser**
-   The application will be available at `http://stemgenius.pro`
+   The application will be available at `http://localhost:8501`
 
 ## 🏗️ Project Structure
 
