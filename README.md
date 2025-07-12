@@ -55,7 +55,7 @@ An AI-powered STEM tutoring application built with Streamlit that provides inter
    ```
 
 5. **Open your browser**
-   The application will be available at `http://localhost:8501`
+   The application will be available at `http://stemgenius.pro`
 
 ## 🏗️ Project Structure
 
